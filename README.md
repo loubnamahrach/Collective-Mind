@@ -9,8 +9,8 @@ Un système multi-agent où 7 agents autonomes avec des personnalités distincte
 
 ### 1. Cloner et configurer
 ```bash
-git clone <your-repo>
-cd collective-mind
+git clone https://github.com/loubnamahrach/Collective-Mind/
+cd Collective-Mind
 ```
 
 ### 2. Backend
